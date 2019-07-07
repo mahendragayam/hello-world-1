@@ -1,2 +1,2 @@
-<h1> Hello, Welcome to Valaxy Technologies !!! </h1>
+<h1> Hello, World....This is a sample Maven Build project !!! </h1>
 
